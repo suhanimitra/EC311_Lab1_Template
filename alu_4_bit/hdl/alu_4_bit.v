@@ -20,6 +20,9 @@ module alu_4_bit #
 
 );
 
-
+  alu alu1(.a_i(A_i),
+           .b_i(B_i),
+           .s_i(S_i),
+           .y_o(Y_o));
 
 endmodule
