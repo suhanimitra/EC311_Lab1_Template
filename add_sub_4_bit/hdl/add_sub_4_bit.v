@@ -20,6 +20,11 @@ module add_sub_4_bit #
 
 );
 
-
+  fourbit_adder_subtractor fourbitadder1(.a_i(A_i),
+                                         .b_i(B_i),
+                                         .m_i(M_i),
+                                         .s_o(S_o),
+                                         .c_o(C_o),
+                                         .v_o(V_o));
 
 endmodule
