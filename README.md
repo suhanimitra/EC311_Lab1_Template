@@ -1,4 +1,4 @@
-# Lab 1: Design 4-bit binary Adder-Subtractor and ALU
+# Lab 1: Design 4-bit binary Adder-Subtractor and ALU 
  Due Date: Due by October 14, 2022
 
 **Please submit the lab in the format mentioned below.**
